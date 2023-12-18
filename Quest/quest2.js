@@ -6,7 +6,7 @@ let resultadoSub = ('O resultado da subtração é igual a ' + (numero1 - numero
 let resultadoMult = ('O resultado da multiplicação é igual a ' + (numero1 * numero2))
 let resultadoDiv = ('O resultado da divisão é igual a ' + (numero1 / numero2))
 
-console.log ([resultadoSub,resultadoSub,resultadoMult,resultadoDiv])
+console.log ([resultadoSoma,resultadoSub,resultadoMult,resultadoDiv])
 
 
 
